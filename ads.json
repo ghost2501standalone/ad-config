@@ -1,9 +1,19 @@
 {
   "affiliateId": "dmmcommerce-999",
   "inline": [
-    { "bannerId": "1698_300_250" },
-    { "bannerId": "1478_640_100" },
-    { "bannerId": "123_728_90" }
-   ]
+    {
+      "pool": [
+        { "bannerId": "1698_300_250", "weight": 3 },
+        { "bannerId": "1478_640_100", "weight": 1 },
+        { "bannerId": "123_728_90",  "weight": 1 }
+      ]
+    },
+    {
+      "pool": [
+        { "bannerId": "1478_640_100" },
+        { "bannerId": "123_728_90" }
+      ],
+      "affiliateId": "dmmcommerce-999"
+    }
+  ]
 }
- 
