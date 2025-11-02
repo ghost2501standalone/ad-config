@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "frequency": "once-per-session",
+  "pool": [
+    { "type": "dmm",  "affiliateId": "dmmcommerce-017", "bannerId": "1698_300_250" },
+    { "type": "image","src": "https://example.com/promo.png", "href": "https://example.com" },
+    { "type": "html", "html": "<div style='padding:16px;font-size:14px'>お知らせテキスト</div>" }
+  ]
+}
