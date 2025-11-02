@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "frequency": "once-per-session",
   "pool": [
     { "type": "dmm",  "affiliateId": "dmmcommerce-017", "bannerId": "1698_300_250" },
