@@ -14,6 +14,6 @@
 
   // ここから追加分 ↓
   "--card-bg": "#ffffff",
-  "--card-aspect": "3/10",
+  "--card-aspect": "10/10",
   "--card-aspect-doujin": "10/3"
 }
