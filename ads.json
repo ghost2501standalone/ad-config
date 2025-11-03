@@ -3,10 +3,10 @@
   "inline": [
     {
       "pool": [
-        { "bannerId": "1698_300_250" },
-        { "bannerId": "1693_300_250", "affiliateId": "dmmcommerce-999" },
-        { "bannerId": "1478_640_100" },
-        { "bannerId": "123_728_90" }
+        { "bannerId": "1713_640_200" },
+        { "bannerId": "1713_600_500" },
+        { "bannerId": "1713_300_250" },
+        { "bannerId": "1713_640_100" }
       ]
     }
   ]
