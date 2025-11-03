@@ -1,14 +1,14 @@
 {
-  "--title-band-bg": "#000000",
+  "--title-band-bg": "#ff2da78c",
   "--title-band-text": "#ffffff",
 
-  "--author-band-bg": "#000000",
-  "--author-band-text": "#ffffff",
-  "--author-band-opacity": "1",
+  "--author-band-bg": "#6f00ff8e",
+  "--author-band-text": "#000000",
+  "--author-band-opacity": ".35",
 
-  "--card-border": "#000000",
-  "--card-border-hover": "#000000",
+  "--card-border": "#7e56a7",
+  "--card-border-hover": "#a855f7",
 
-  "--site-bg": "#000000",
-  "--site-fg": "#ffffff"
+  "--site-bg": "#323232",
+  "--site-fg": "#111111"
 }
