@@ -11,13 +11,12 @@
 
   "--card-bg": "#ffffff",
 
-  /* 同人じゃないほうだけ極端に小さくする */
+
   "--item-card-aspect": "1/10",
 
-  /* 同人はそのまま（大きいまま） */
+
   "--item-card-aspect-doujin": "10/3",
 
-  /* Generalカードも同じ差をつけるなら↓ */
   "--general-card-aspect": "1/10",
   "--general-card-aspect-doujin": "16/9"
 }
