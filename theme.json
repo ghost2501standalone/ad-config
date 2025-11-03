@@ -1,0 +1,14 @@
+{
+  "--title-band-bg": "#000000",
+  "--title-band-text": "#ffffff",
+
+  "--author-band-bg": "#000000",
+  "--author-band-text": "#ffffff",
+  "--author-band-opacity": "1",
+
+  "--card-border": "#000000",
+  "--card-border-hover": "#000000",
+
+  "--site-bg": "#000000",
+  "--site-fg": "#ffffff"
+}
