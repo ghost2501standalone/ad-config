@@ -10,5 +10,10 @@
   "--card-border-hover": "#a855f7",
 
   "--site-bg": "#323232",
-  "--site-fg": "#111111"
+  "--site-fg": "#111111",
+
+  // ここから追加分 ↓
+  "--card-bg": "#ffffff",
+  "--card-aspect": "3/10",
+  "--card-aspect-doujin": "10/3"
 }
