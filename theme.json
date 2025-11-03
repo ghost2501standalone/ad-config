@@ -1,19 +1,19 @@
 {
   "--title-band-bg": "#ff2da78c",
   "--title-band-text": "#ffffff",
-
   "--author-band-bg": "#6f00ff8e",
   "--author-band-text": "#000000",
   "--author-band-opacity": ".35",
-
   "--card-border": "#7e56a7",
   "--card-border-hover": "#a855f7",
-
   "--site-bg": "#323232",
   "--site-fg": "#111111",
 
-  // ここから追加分 ↓
   "--card-bg": "#ffffff",
-  "--card-aspect": "3/10",
-  "--card-aspect-doujin": "10/3"
+
+  "--item-card-aspect": "3/10",
+  "--item-card-aspect-doujin": "10/3",
+
+  "--general-card-aspect": "4/3",
+  "--general-card-aspect-doujin": "16/9"
 }
