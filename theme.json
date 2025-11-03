@@ -8,15 +8,15 @@
   "--card-border-hover": "#a855f7",
   "--site-bg": "#323232",
   "--site-fg": "#111111",
-
   "--card-bg": "#ffffff",
 
 
-  "--item-card-aspect": "1/10",
+  "--general-card-image-width": "100%",
+
+ 
+  "--general-card-image-width-doujin": "100%",
 
 
-  "--item-card-aspect-doujin": "10/3",
-
-  "--general-card-aspect": "1/10",
+  "--general-card-aspect": "4/3",
   "--general-card-aspect-doujin": "16/9"
 }
