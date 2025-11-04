@@ -1,34 +1,15 @@
 {
-  "pc": [　
+  "pc": [
     {
       "enabled": true,
-      "top": 0,
-      "left": 0,
-      "right": 0,
-      "width": 728,
-      "height": 90,
-      "script": "<ins class=\"widget-banner\"></ins><script class=\"widget-banner-script\" src=\"https://widget-view.dmm.co.jp/js/banner_placement.js?affiliate_id=dmmcommerce-001&banner_id=1698_728_90\"></script>"
-    },
-    {
-      "enabled": true,
-      "bottom": 0,
-      "left": 0,
-      "right": 0,
-      "width": 728,
+      "top": 10,
+      "right": 10,
+      "width": 300,
       "height": 90,
       "script": "<ins class=\"widget-banner\"></ins><script class=\"widget-banner-script\" src=\"https://widget-view.dmm.co.jp/js/banner_placement.js?affiliate_id=dmmcommerce-001&banner_id=1698_728_90\"></script>"
     }
   ],
   "sp": [
-    {
-      "enabled": true,
-      "top": 0,
-      "left": 0,
-      "right": 0,
-      "width": 320,
-      "height": 50,
-      "script": "<ins class=\"widget-banner\"></ins><script class=\"widget-banner-script\" src=\"https://widget-view.dmm.co.jp/js/banner_placement.js?affiliate_id=dmmcommerce-001&banner_id=1698_728_90\"></script>"
-    },
     {
       "enabled": true,
       "bottom": 0,
