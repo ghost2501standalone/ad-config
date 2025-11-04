@@ -1,18 +1,18 @@
 {
   "pc": {
     "enabled": true,
-    "position": "bottom-right",
-    "linkUrl": "https://www.dmm.co.jp/",
-    "bannerId": "1713_300_250",
+    "position": "right",            // ← PCで右に固定
     "width": 300,
-    "height": 250
+    "height": 600,
+    "linkUrl": "https://www.dmm.co.jp/",
+    "bannerId": "pc_300x600"
   },
   "sp": {
     "enabled": true,
-    "position": "bottom-left",
-    "linkUrl": "https://www.dmm.co.jp/",
-    "bannerId": "1713_320_50",
+    "position": "bottom",           // ← スマホで下にべたっと
     "width": 320,
-    "height": 50
+    "height": 50,
+    "linkUrl": "https://www.dmm.co.jp/",
+    "bannerId": "sp_320x50"
   }
 }
