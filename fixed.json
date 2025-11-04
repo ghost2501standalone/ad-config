@@ -1,0 +1,18 @@
+{
+  "pc": {
+    "enabled": true,
+    "position": "bottom-right",
+    "linkUrl": "https://www.dmm.co.jp/",
+    "bannerId": "1713_300_250",
+    "width": 300,
+    "height": 250
+  },
+  "sp": {
+    "enabled": true,
+    "position": "bottom-left",
+    "linkUrl": "https://www.dmm.co.jp/",
+    "bannerId": "1713_320_50",
+    "width": 320,
+    "height": 50
+  }
+}
