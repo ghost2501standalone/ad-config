@@ -3,13 +3,13 @@
   "id": "2025-11-05-01",
   "title": "",
   "body": "",
-
   "oncePerDevice": false,
 
   "banner_image_url": "https://raw.githubusercontent.com/ghost2501standalone/ad-config/main/gazoutamesi.png",
   "banner_link_url": "http://10.5.0.2:3000/search?opt=doujin&p=1&sale=sale_only",
-  "banner_text": "セール中の同人だけ見る",
 
-  "banner_ins": "",
-  "banner_script": ""
+  "banner_text": "",
+
+  "banner_ins": "<ins class=\"widget-banner\"></ins>",
+  "banner_script": "https://widget-view.dmm.co.jp/js/banner_placement.js?affiliate_id=dmmcommerce-001&banner_id=1711_300_250"
 }
