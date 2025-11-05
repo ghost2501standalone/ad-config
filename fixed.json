@@ -1,7 +1,7 @@
 {
   "pc": [
     {
-      "enabled": true,
+      "enabled": false,
       "top": 70,
       "left": 10,
       "slot": "left-vertical",
@@ -10,7 +10,7 @@
       "script": "<ins class=\"widget-banner\"></ins><script class=\"widget-banner-script\" src=\"https://widget-view.dmm.co.jp/js/banner_placement.js?affiliate_id=dmmcommerce-001&banner_id=1698_160_600\"></script>"
     },
     {
-      "enabled": true,
+      "enabled": false,
       "top": 70,
       "left": 10,
       "slot": "left-vertical",
@@ -20,7 +20,7 @@
     },
 
     {
-      "enabled": true,
+      "enabled": false,
       "top": 70,
       "right": 10,
       "slot": "right-vertical",
@@ -29,7 +29,7 @@
       "script": "<ins class=\"widget-banner\"></ins><script class=\"widget-banner-script\" src=\"https://widget-view.dmm.co.jp/js/banner_placement.js?affiliate_id=dmmcommerce-001&banner_id=1698_160_600\"></script>"
     },
     {
-      "enabled": true,
+      "enabled": false,
       "top": 70,
       "right": 10,
       "slot": "right-vertical",
