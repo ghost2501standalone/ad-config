@@ -21,11 +21,10 @@
   "--general-card-image-width-doujin": "65%",
   "--general-card-padding": "0.5rem",
 
- 
-  "--view-title-bg": "#D4AAE0",  
-  "--view-title-text": "#000000",
+  "--view-title-bg": "#D4AAE0",
+  "--view-title-text": "#ffffff", 
 
-  "--view-author-bg": "#F27FC2", 
+  "--view-author-bg": "#F27FC2",
   "--view-author-text": "#ffffff",
   "--view-author-opacity": "1",
 
