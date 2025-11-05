@@ -2,15 +2,14 @@
   "enabled": true,
   "id": "2025-11-05-01",
   "title": "お知らせ",
-  "body": "本日20:00〜メンテナン",
+  "body": "",
+
   "oncePerDevice": false,
 
-  
-  "banner_image_url": "https://raw.githubusercontent.com/ghost2501standalone/ad-config/main/popup-banner.png",
-  "banner_link_url": "https://example.com/special",
-  "banner_text": "詳しくはこちら",
+  "banner_image_url": "https://raw.githubusercontent.com/ghost2501standalone/ad-config/main/gazoutamesi.png",
+  "banner_link_url": "http://10.5.0.2:3000/search?opt=doujin&p=1&sale=sale_only",
+  "banner_text": "セール中の同人だけ見る",
 
- 
-  "banner_ins": "<ins class=\"widget-banner\"></ins>",
-  "banner_script": "https://widget-view.dmm.co.jp/js/banner_placement.js?affiliate_id=dmmcommerce-001&banner_id=1711_300_250"
+  "banner_ins": "",
+  "banner_script": ""
 }
