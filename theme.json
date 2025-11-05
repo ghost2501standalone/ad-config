@@ -22,20 +22,19 @@
   "--general-card-padding": "0.5rem",
 
  
-  "--view-title-bg": "#F27FC2",
-  "--view-title-text": "#ffffff",
+  "--view-title-bg": "#D4AAE0",  
+  "--view-title-text": "#000000",
 
-  "--view-author-bg": "#D4AAE0",  
-  "--view-author-text": "#000000",
+  "--view-author-bg": "#F27FC2", 
+  "--view-author-text": "#ffffff",
   "--view-author-opacity": "1",
-
 
   "--view-title-border-width": "0px",
   "--view-title-border-style": "solid",
-  "--view-title-border-color": "#F27FC2",
+  "--view-title-border-color": "#D4AAE0",
   "--view-title-radius": "0px",
 
   "--view-author-border-width": "0px",
   "--view-author-border-style": "solid",
-  "--view-author-border-color": "#D4AAE0"
+  "--view-author-border-color": "#F27FC2"
 }
