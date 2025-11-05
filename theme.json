@@ -21,19 +21,21 @@
   "--general-card-image-width-doujin": "65%",
   "--general-card-padding": "0.5rem",
 
-  "--view-title-bg": "#0066ff",
+ 
+  "--view-title-bg": "#F27FC2",
   "--view-title-text": "#ffffff",
 
-  "--view-author-bg": "#0052cc",
-  "--view-author-text": "#ffffff",
+  "--view-author-bg": "#D4AAE0",  
+  "--view-author-text": "#000000",
   "--view-author-opacity": "1",
 
-  "--view-title-border-width": "1px",
+
+  "--view-title-border-width": "0px",
   "--view-title-border-style": "solid",
-  "--view-title-border-color": "#004a99",
+  "--view-title-border-color": "#F27FC2",
   "--view-title-radius": "0px",
 
-  "--view-author-border-width": "1px",
+  "--view-author-border-width": "0px",
   "--view-author-border-style": "solid",
-  "--view-author-border-color": "#004a99"
+  "--view-author-border-color": "#D4AAE0"
 }
