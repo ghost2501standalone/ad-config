@@ -5,16 +5,11 @@
   "body": "本日200:00〜メンテナンスを行います。",
   "oncePerDevice": false,
 
-  //
-  // ここから広告まわり（DMM分）
-  //
+  
   "banner_ins": "<ins class=\"widget-banner\"></ins>",
   "banner_script": "https://widget-view.dmm.co.jp/js/banner_placement.js?affiliate_id=dmmcommerce-001&banner_id=1711_300_250",
 
-  //
-  // ここは保険用（DMMが出なかったときに先に表示する画像）
-  // 使わないなら空文字にしてもOK
-  //
+
   "banner_image_url": "",
   "banner_link_url": "",
   "banner_text": ""
