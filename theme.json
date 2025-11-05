@@ -19,11 +19,9 @@
 
   "--general-card-image-width": "55%",
   "--general-card-image-width-doujin": "65%",
-  "--general-card-padding": "0.5rem"
+  "--general-card-padding": "0.5rem",
 
 
-
-    "--view-title-bg-image": "url('https://raw.githubusercontent.com/ghost2501standalone/ad-config/main/gazoutamesi.png')",
-  "--view-title-bg-size": "cover",
-  "--view-title-bg-position": "center"
+  "--view-title-bg": "#0066ff",
+  "--view-title-text": "#ffffff"
 }
