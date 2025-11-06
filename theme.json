@@ -17,7 +17,7 @@
   "--general-card-aspect": "3/4",
   "--general-card-aspect-doujin": "3/4",
 
-  "--general-card-image-width": "85%",
+  "--general-card-image-width": "65%",
   "--general-card-image-width-doujin": "65%",
   "--general-card-padding": "0.5rem",
 
