@@ -24,7 +24,7 @@
 
   "--view-title-bg": "#e91e63",
   "--view-title-text": "#ffffff",
-  "--view-title-border-width": "1px",
+  "--view-title-border-width": "0px",
   "--view-title-border-style": "solid",
   "--view-title-border-color": "#0066ff",
 
