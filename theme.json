@@ -1,7 +1,7 @@
 {
-  "--title-band-bg": "#ff1fa1",
+  "--title-band-bg": "#e91e63",
   "--title-band-text": "#ffffff",
-  "--author-band-bg": "#6f00ff8e",
+  "--author-band-bg": "#1f2937",
   "--author-band-text": "#000000",
   "--author-band-opacity": ".35",
   "--card-border": "#7e56a7",
