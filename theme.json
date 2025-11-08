@@ -30,5 +30,5 @@
 
   "--view-author-bg": "#1f2937",
   "--view-author-text": "#ffffff",
-  "--view-author-opacity": "1"
+  "--view-author-opacity": "0"
 }
