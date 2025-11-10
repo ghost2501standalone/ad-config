@@ -2,6 +2,7 @@
   "affiliateId": "dmmcommerce-999",
   "inline": [
     {
+      "enabled": true,
       "pool": [
         { "bannerId": "1713_640_200" },
         { "bannerId": "1713_600_500" },
