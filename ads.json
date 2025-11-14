@@ -5,16 +5,16 @@
     {
       "enabled": false,
       "pool": [
-        { "bannerId": "1714_600_500" }
+        { "bannerId": "1729_300_250" }
       ]
     }
   ],
 
   "pc": [
-    { "bannerId": "1714_600_500", "enabled": true }
+    { "bannerId": "1729_300_250", "enabled": true }
   ],
   "sp": [
-    { "bannerId": "1714_600_500", "enabled": true }
+    { "bannerId": "1729_300_250", "enabled": true }
   ]
 }
 
