@@ -3,7 +3,7 @@
 
   "inline": [
     {
-      "enabled": true,
+      "enabled": false,
       "pool": [
         { "bannerId": "1729_300_250" },
         { "bannerId": "1730_300_250" },
