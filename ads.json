@@ -3,15 +3,14 @@
   "inline": [
     {
       "enabled": true,
+      "bannerId": "1729_300_250",
       "pool": []
     }
   ],
   "pc": [
-    { "bannerId": "1729_300_250", "enabled": true },
-
+    { "bannerId": "1729_300_250", "enabled": true }
   ],
   "sp": [
-    { "bannerId": "1729_300_250", "enabled": true },
-
+    { "bannerId": "1729_300_250", "enabled": true }
   ]
 }
