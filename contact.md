@@ -4,6 +4,6 @@
 
 ## メール
 
-- contact@example.com
+- kaname0.official@gmail.com
 
 ※ 通知設定や迷惑メールフォルダをご確認ください。返信には数日いただく場合があります。
