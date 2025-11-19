@@ -4,6 +4,7 @@
     {
       "id": "banner-1732",
       "enabled": true,
+      "oncePerDevice": true,
       "show_delay_sec": 3,
       "banner_ins": "<ins class=\"widget-banner\"></ins>",
       "banner_script": "<script class=\"widget-banner-script\" src=\"https://widget-view.dmm.co.jp/js/banner_placement.js?affiliate_id=dmmcommerce-001&banner_id=1732_600_500\"></script>"
@@ -11,6 +12,7 @@
     {
       "id": "banner-1726",
       "enabled": true,
+      "oncePerDevice": true,
       "show_delay_sec": 3,
       "banner_ins": "<ins class=\"widget-banner\"></ins>",
       "banner_script": "<script class=\"widget-banner-script\" src=\"https://widget-view.dmm.co.jp/js/banner_placement.js?affiliate_id=dmmcommerce-001&banner_id=1726_300_250\"></script>"
@@ -18,12 +20,14 @@
     {
       "id": "gazoutamesi",
       "enabled": true,
+      "oncePerDevice": true,
       "show_delay_sec": 3,
       "title": "KANAMEからのお知らせ",
       "body": "Xでの拡散キャンペーンを実施中です。抽選でAmazonギフトカードが当たります。",
       "banner_image_url": "https://raw.githubusercontent.com/ghost2501standalone/ad-config/main/gazoutamesi.png",
       "banner_link_url": "https://kanamez.com/",
-      "banner_text": "キャンペーン詳細を見る"
+      "banner_text": "キャンペーン詳細を見る",
+      "container_style": "max-width:420px;margin:0 auto;"
     }
   ]
 }
