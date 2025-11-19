@@ -28,7 +28,7 @@
       "show_delay_sec": 3,
       "title": "KANAMEからのお知らせ",
       "body": "Xでの拡散キャンペーンを実施中です。抽選でAmazonギフトカードが当たります。",
-      "banner_image_url": "/img/gazoutamesi.png",
+      "banner_image_url": "https://raw.githubusercontent.com/ghost2501standalone/ad-config/main/gazoutamesi.png",
       "banner_link_url": "https://kanamez.com/",
       "banner_text": "キャンペーン詳細を見る"
     }
