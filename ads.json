@@ -3,7 +3,7 @@
 
   "inline": [
     {
-      "enabled": false,
+      "enabled": true,
       "bannerId": "1724_640_200",
       "pool": [
         { "bannerId": "1724_640_200" },
@@ -19,7 +19,7 @@
 
   "pc": [
     {
-      "enabled": false,
+      "enabled": true,
       "bannerId": "1724_640_200",
       "pool": [
         { "bannerId": "1724_640_200" },
@@ -35,7 +35,7 @@
 
   "sp": [
     {
-      "enabled": false,
+      "enabled": true,
       "bannerId": "1724_640_200",
       "pool": [
         { "bannerId": "1724_640_200" },
