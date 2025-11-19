@@ -6,14 +6,9 @@
       "enabled": true,
       "bannerId": "1729_300_250",
       "pool": [
-        { "bannerId": "1729_300_250", "weight": 1 },
-        { "bannerId": "1730_300_250", "weight": 1 },
-        { "bannerId": "1742_300_250", "weight": 1 },
-        {
-          "imageUrl": "https://raw.githubusercontent.com/ghost2501standalone/ad-config/main/gazoutamesi.png",
-          "href": "https://kanamez.com/",
-          "weight": 1
-        }
+        { "bannerId": "1742_300_250" },
+        { "bannerId": "1729_300_250" },
+        { "bannerId": "1730_300_250" }
       ]
     }
   ],
@@ -23,14 +18,9 @@
       "enabled": true,
       "bannerId": "1729_300_250",
       "pool": [
-        { "bannerId": "1729_300_250", "weight": 1 },
-        { "bannerId": "1730_300_250", "weight": 1 },
-        { "bannerId": "1742_300_250", "weight": 1 },
-        {
-          "imageUrl": "https://raw.githubusercontent.com/ghost2501standalone/ad-config/main/gazoutamesi.png",
-          "href": "https://kanamez.com/",
-          "weight": 1
-        }
+        { "bannerId": "1742_300_250" },
+        { "bannerId": "1729_300_250" },
+        { "bannerId": "1730_300_250" }
       ]
     }
   ],
@@ -40,14 +30,9 @@
       "enabled": true,
       "bannerId": "1729_300_250",
       "pool": [
-        { "bannerId": "1729_300_250", "weight": 1 },
-        { "bannerId": "1730_300_250", "weight": 1 },
-        { "bannerId": "1742_300_250", "weight": 1 },
-        {
-          "imageUrl": "https://raw.githubusercontent.com/ghost2501standalone/ad-config/main/gazoutamesi.png",
-          "href": "https://kanamez.com/",
-          "weight": 1
-        }
+        { "bannerId": "1742_300_250" },
+        { "bannerId": "1729_300_250" },
+        { "bannerId": "1730_300_250" }
       ]
     }
   ]
