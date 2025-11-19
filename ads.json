@@ -1,1 +1,51 @@
-{ "affiliateId": "dmmcommerce-999", "inline": [ { "enabled": true, "bannerId": "1729_300_250", "pool": [ { "bannerId": "1742_300_250" }, { "bannerId": "1729_300_250" }, { "bannerId": "1730_300_250" } ] } ], "pc": [ { "enabled": true, "bannerId": "1729_300_250", "pool": [ { "bannerId": "1742_300_250" }, { "bannerId": "1729_300_250" }, { "bannerId": "1730_300_250" } ] } ], "sp": [ { "enabled": true, "bannerId": "1729_300_250", "pool": [ { "bannerId": "1742_300_250" }, { "bannerId": "1729_300_250" }, { "bannerId": "1730_300_250" } ] } ] }
+{
+  "affiliateId": "dmmcommerce-999",
+
+  "inline": [
+    {
+      "enabled": true,
+      "bannerId": "1724_640_200",
+      "pool": [
+        { "bannerId": "1724_640_200" },
+        { "bannerId": "1732_600_500" },
+        {
+          "bannerId": "gazoutamesi",
+          "banner_image_url": "https://raw.githubusercontent.com/ghost2501standalone/ad-config/main/gazoutamesi.png",
+          "banner_link_url": "https://www.a8.net/"
+        }
+      ]
+    }
+  ],
+
+  "pc": [
+    {
+      "enabled": true,
+      "bannerId": "1724_640_200",
+      "pool": [
+        { "bannerId": "1724_640_200" },
+        { "bannerId": "1732_600_500" },
+        {
+          "bannerId": "gazoutamesi",
+          "banner_image_url": "https://raw.githubusercontent.com/ghost2501standalone/ad-config/main/gazoutamesi.png",
+          "banner_link_url": "https://www.a8.net/"
+        }
+      ]
+    }
+  ],
+
+  "sp": [
+    {
+      "enabled": true,
+      "bannerId": "1724_640_200",
+      "pool": [
+        { "bannerId": "1724_640_200" },
+        { "bannerId": "1732_600_500" },
+        {
+          "bannerId": "gazoutamesi",
+          "banner_image_url": "https://raw.githubusercontent.com/ghost2501standalone/ad-config/main/gazoutamesi.png",
+          "banner_link_url": "https://www.a8.net/"
+        }
+      ]
+    }
+  ]
+}
