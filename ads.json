@@ -1,18 +1,14 @@
 {
-  "affiliateId": "dmmcommerce-999",
+  "affiliateId": "dmmcommerce-991",
 
   "inline": [
     {
-      "enabled":true,
-      "bannerId": "1724_640_200",
+      "enabled": true,
+      "bannerId": "1739_300_250",
       "pool": [
-        { "bannerId": "1724_640_200" },
-        { "bannerId": "1732_600_500" },
-        {
-          "bannerId": "gazoutamesi",
-          "banner_image_url": "https://raw.githubusercontent.com/ghost2501standalone/ad-config/main/gazoutamesi.png",
-          "banner_link_url": "https://www.a8.net/"
-        }
+        { "bannerId": "1739_300_250" },
+        { "bannerId": "1740_640_100" },
+        { "bannerId": "1741_600_500" }
       ]
     }
   ],
@@ -20,15 +16,11 @@
   "pc": [
     {
       "enabled": true,
-      "bannerId": "1724_640_200",
+      "bannerId": "1739_300_250",
       "pool": [
-        { "bannerId": "1724_640_200" },
-        { "bannerId": "1732_600_500" },
-        {
-          "bannerId": "gazoutamesi",
-          "banner_image_url": "https://raw.githubusercontent.com/ghost2501standalone/ad-config/main/gazoutamesi.png",
-          "banner_link_url": "https://www.a8.net/"
-        }
+        { "bannerId": "1739_300_250" },
+        { "bannerId": "1740_640_100" },
+        { "bannerId": "1741_600_500" }
       ]
     }
   ],
@@ -36,15 +28,11 @@
   "sp": [
     {
       "enabled": true,
-      "bannerId": "1724_640_200",
+      "bannerId": "1739_300_250",
       "pool": [
-        { "bannerId": "1724_640_200" },
-        { "bannerId": "1732_600_500" },
-        {
-          "bannerId": "gazoutamesi",
-          "banner_image_url": "https://raw.githubusercontent.com/ghost2501standalone/ad-config/main/gazoutamesi.png",
-          "banner_link_url": "https://www.a8.net/"
-        }
+        { "bannerId": "1739_300_250" },
+        { "bannerId": "1740_640_100" },
+        { "bannerId": "1741_600_500" }
       ]
     }
   ]
