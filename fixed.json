@@ -10,7 +10,7 @@
     },
     {
       "enabled": true,
-      "position": "center",
+      "position": "right",
       "width": 640,
       "height": 200,
       "banner_image_url": "https://raw.githubusercontent.com/ghost2501standalone/ad-config/main/gazoutamesi.png",
@@ -28,7 +28,7 @@
     },
     {
       "enabled": true,
-      "position": "center",
+      "position": "top",
       "width": 640,
       "height": 200,
       "banner_image_url": "https://raw.githubusercontent.com/ghost2501standalone/ad-config/main/gazoutamesi.png",
