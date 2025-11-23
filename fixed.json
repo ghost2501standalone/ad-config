@@ -1,41 +1,40 @@
 {
   "pc": [
     {
-      "enabled": false,
+      "enabled": true,
       "top": 70,
       "left": 10,
       "slot": "left-vertical",
       "width": 160,
       "height": 600,
-      "script": "<ins class=\"widget-banner\"></ins><script class=\"widget-banner-script\" src=\"https://widget-view.dmm.co.jp/js/banner_placement.js?affiliate_id=dmmcommerce-001&banner_id=1698_160_600\"></script>"
+      "script": "<ins class=\"widget-banner\"></ins><script class=\"widget-banner-script\" src=\"https://widget-view.dmm.co.jp/js/banner_placement.js?affiliate_id=dmmcommerce-001&banner_id=1741_640_100\"></script>"
     },
     {
-      "enabled": false,
+      "enabled": true,
       "top": 70,
       "left": 10,
       "slot": "left-vertical",
       "width": 120,
       "height": 600,
-      "script": "<ins class=\"widget-banner\"></ins><script class=\"widget-banner-script\" src=\"https://widget-view.dmm.co.jp/js/banner_placement.js?affiliate_id=dmmcommerce-001&banner_id=1693_120_600\"></script>"
+      "script": "<ins class=\"widget-banner\"></ins><script class=\"widget-banner-script\" src=\"https://widget-view.dmm.co.jp/js/banner_placement.js?affiliate_id=dmmcommerce-001&banner_id=1741_640_100\"></script>"
     },
-
     {
-      "enabled": false,
+      "enabled": true,
       "top": 70,
       "right": 10,
       "slot": "right-vertical",
       "width": 160,
       "height": 600,
-      "script": "<ins class=\"widget-banner\"></ins><script class=\"widget-banner-script\" src=\"https://widget-view.dmm.co.jp/js/banner_placement.js?affiliate_id=dmmcommerce-001&banner_id=1698_160_600\"></script>"
+      "script": "<ins class=\"widget-banner\"></ins><script class=\"widget-banner-script\" src=\"https://widget-view.dmm.co.jp/js/banner_placement.js?affiliate_id=dmmcommerce-001&banner_id=1741_640_100\"></script>"
     },
     {
-      "enabled": false,
+      "enabled": true,
       "top": 70,
       "right": 10,
       "slot": "right-vertical",
       "width": 120,
       "height": 600,
-      "script": "<ins class=\"widget-banner\"></ins><script class=\"widget-banner-script\" src=\"https://widget-view.dmm.co.jp/js/banner_placement.js?affiliate_id=dmmcommerce-001&banner_id=1693_120_600\"></script>"
+      "script": "<ins class=\"widget-banner\"></ins><script class=\"widget-banner-script\" src=\"https://widget-view.dmm.co.jp/js/banner_placement.js?affiliate_id=dmmcommerce-001&banner_id=1741_640_100\"></script>"
     }
   ],
   "sp": []
