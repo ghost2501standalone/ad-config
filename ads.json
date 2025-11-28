@@ -3,7 +3,7 @@
 
   "inline": [
     {
-      "enabled": true,
+      "enabled": false,
       "bannerId": "1739_300_250",
       "pool": [
         { "bannerId": "1739_300_250" },
@@ -15,7 +15,7 @@
 
   "pc": [
     {
-      "enabled": true,
+      "enabled": false,
       "bannerId": "1739_300_250",
       "pool": [
         { "bannerId": "1739_300_250" },
@@ -27,7 +27,7 @@
 
   "sp": [
     {
-      "enabled": true,
+      "enabled": false,
       "bannerId": "1739_300_250",
       "pool": [
         { "bannerId": "1739_300_250" },
