@@ -16,7 +16,7 @@
       "show_delay_sec": 1,
       "banner_ins": "<ins class=\"widget-banner\"></ins>",
       "banner_script": "<script class=\"widget-banner-script\" src=\"https://widget-view.dmm.co.jp/js/banner_placement.js?affiliate_id=dmmcommerce-001&banner_id=1739_300_250\"></script>"
-    },
+    }
 
   ]
 }
